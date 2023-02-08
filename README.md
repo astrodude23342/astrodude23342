@@ -1,7 +1,7 @@
-### Über mich
+## Über mich
 
 Hi, ich bin Julian und ich programmiere gerne.
-Hauptsächlich mache ich Web Development (Frontend) mit Reactjs.
+Gerade arbeite ich an einer Astronomiewebsite mit Newsseite und Lexikon.
 
 [![astrodude23342's GitHub stats](https://github-readme-stats.vercel.app/api?username=astrodude23342&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
